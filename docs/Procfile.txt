@@ -1,1 +1,1 @@
-web: cd bin/net9.0/publish/; ./
+web: cd bin/net9.0/publish/; ./ --urls http://*:$PORT
